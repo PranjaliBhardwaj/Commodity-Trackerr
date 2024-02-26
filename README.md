@@ -20,4 +20,5 @@ Food dumping by black marketers and traders, create artifical shortage in lean p
 ![Screenshot 2024-02-25 112302](https://github.com/PranjaliBhardwaj/Commodity-Trackerr/assets/146981751/08e1f467-a852-4dbb-83e4-271c6084558e)
 ![Screenshot 2024-02-25 111815](https://github.com/PranjaliBhardwaj/Commodity-Trackerr/assets/146981751/6cacd8c8-63a1-4c8f-8670-71515b886bb9)
 
-![Screenshot 2024-02-25 111804](https://github.com/PranjaliBhardwaj/Commodity-Trackerr/assets/146981751/17483b80-1916-43c4-959f-392a7f56ebbe)
+![Screenshot 2024-02-26 153733](https://github.com/PranjaliBhardwaj/Commodity-Trackerr/assets/146981751/571239f9-0abf-4e63-8e9c-addd1f4ae185)
+
